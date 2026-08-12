@@ -13,6 +13,6 @@ A web application built with Python and Flask that utilizes Watson NLP to analyz
 * **Watson NLP / AI Libraries**
 
 ## ⚙️ Installation & Running
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Abdulaziz7799/final-project-emotion-detection.git](https://github.com/Abdulaziz7799/final-project-emotion-detection.git)
+git clone https://github.com/Abdulaziz7799/final-project-emotion-detection.git
+pip install -r requirements.txt
+python server.py
